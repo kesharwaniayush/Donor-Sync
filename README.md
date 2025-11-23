@@ -21,7 +21,7 @@
 
 ### 👥 Original MumbaiHacks Team Members
 
-1. [**Ayush Kesharwani**](https://github.com/FareedAhmedOwais)
+1. [**Ayush Kesharwani**](https://github.com/kesharwaniayush)
 2. [**Harshad Pakhale**](https://github.com/saad2134)
 3. [**Aditya Javarat**](https://github.com/Abdur-rahman-01)
 4. [**Pavan Sonune**](https://github.com/Abdul-Rahman26)

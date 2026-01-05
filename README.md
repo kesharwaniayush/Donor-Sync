@@ -19,12 +19,6 @@
 ### 🏆 Prototype for the MumbaiHacks Solution Challenge India 2025.
 - Problem Statement: “Healthtech”. Donor Sync – A smart web-based platform that connects blood donors directly with hospitals, and hospitals with patients and NGOs, enabling faster, safer, and more coordinated blood donation and emergency support..
 
-### 👥 Original MumbaiHacks Team Members
-
-1. [**Ayush Kesharwani**](https://github.com/kesharwaniayush)
-2. [**Harshad Pakhale**](https://github.com/saad2134)
-3. [**Aditya Javarat**](https://github.com/Abdur-rahman-01)
-4. [**Pavan Sonune**](https://github.com/Abdul-Rahman26)
 
 ## 🚀 Features
 

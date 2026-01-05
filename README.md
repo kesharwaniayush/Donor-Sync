@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://donorsync.vercel.app/" target="_blank">
+<a href="" target="_blank">
   <img  style="width:350px;" src="https://img.shields.io/badge/🚀_Access_the_Prototype_Here-Live-brightgreen?style=for-the-badge&labelColor=ff3838" alt="Access the Prototype Here"  />
 </a>
 

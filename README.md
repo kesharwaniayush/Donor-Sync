@@ -76,8 +76,7 @@
    npm run dev
    ```
 
-### Web Frontend: Using the app
-1. Simply go to https://donorsync.vercel.app/
+
 
 ### Android Frontend: Using the app
 1. Enable `Install from Unknown Sources` in your android device settings.
